@@ -21,7 +21,10 @@ Có thể tham khảo cách sử dụng: https://o7planning.org/vi/10283/huong-d
 Đề bài: https://github.com/UET-INT2204-11-fall-18/Information/blob/master/lab/Lab01/Lab01.pdf
 
 ### Yêu cầu:
+
 Viết chương trình HelloWorld bằng Java
+
 Tạo tài khoản github.com
+
 Nộp mã nguồn vào link: https://classroom.github.com/a/RU6qPoEq
 
