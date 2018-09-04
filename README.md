@@ -12,7 +12,9 @@ Họ tên, Mã sinh viên, Nhóm, Email, Ghi chú(nếu có)
 
 ## Cách sử dụng github
 
-Sử dụng Github desktop hoặc git command line 
+Sử dụng Github desktop hoặc git command line.
+
+Có thể tham khảo cách sử dụng: https://o7planning.org/vi/10283/huong-dan-su-dung-github-voi-github-desktop
 
 ## Bài tập tuần 1:
 
