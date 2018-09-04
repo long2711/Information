@@ -1,6 +1,10 @@
-# Information
+# Thông tin môn học
+
+Môn: Lập trình hướng đối tượng INT2204
 
 Thông tin môn học cập nhật tại: https://github.com/UET-INT2204-11-fall-18/Information 
+
+Group facebook: https://www.facebook.com/groups/481317272344939
 
 ## Lưu ý nộp bài
 Khi nộp bài cần tạo Issues trên github ghi rõ:
