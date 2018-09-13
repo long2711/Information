@@ -16,9 +16,12 @@ Sử dụng Github desktop hoặc git command line.
 
 Có thể tham khảo cách sử dụng: https://o7planning.org/vi/10283/huong-dan-su-dung-github-voi-github-desktop
 
-## Bài tập tuần 1:
+## Đề bài các tuần
 
-Đề bài: https://github.com/UET-INT2204-11-fall-18/Information/blob/master/lab/Lab01/Lab01.pdf
+https://github.com/UET-INT2204-11-fall-18/Information/blob/master/lab/All_Lab.pdf
+
+
+## Bài tập tuần 1:
 
 ### Yêu cầu:
 
@@ -28,3 +31,6 @@ Tạo tài khoản github.com
 
 Nộp mã nguồn vào link: https://classroom.github.com/a/RU6qPoEq
 
+## Bài tập tuần 2:
+
+Nộp mã nguồn vào link: https://classroom.github.com/a/y0dG4baZ
