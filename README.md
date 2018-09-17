@@ -33,4 +33,44 @@ Nộp mã nguồn vào link: https://classroom.github.com/a/RU6qPoEq
 
 ## Bài tập tuần 2:
 
-Nộp mã nguồn vào link: https://classroom.github.com/a/y0dG4baZ
+https://classroom.github.com/a/y0dG4baZ
+
+## Bài tập Lab03:
+
+https://classroom.github.com/a/jvqBKn8e
+
+## Bài tập Lab04:
+
+https://classroom.github.com/a/H2PiEjDp
+
+## Bài tập Lab05:
+
+https://classroom.github.com/a/MxUE31Bu
+
+## Bài tập Lab06
+
+https://classroom.github.com/a/zOwQVneF
+
+## Bài tập Lab07
+
+https://classroom.github.com/a/YYWdhglT
+
+## Bài tập Lab08
+
+https://classroom.github.com/a/nPJoF4hl
+
+## Bài tập Lab09
+
+`https://classroom.github.com/a/bJb2EBt_`
+
+## Bài tập Lab10
+
+https://classroom.github.com/a/QYbFgbLE
+
+## Bài tập Lab11
+
+https://classroom.github.com/a/tnJTZe7L
+
+## Bài tập Lab12
+
+https://classroom.github.com/a/49yHi-Zo
