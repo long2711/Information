@@ -21,7 +21,7 @@ Có thể tham khảo cách sử dụng: https://o7planning.org/vi/10283/huong-d
 https://github.com/UET-INT2204-11-fall-18/Information/blob/master/lab/All_Lab.pdf
 
 
-## Bài tập tuần01:
+## Bài tập Lab01:
 
 ### Yêu cầu:
 
@@ -31,7 +31,7 @@ Tạo tài khoản github.com
 
 Nộp mã nguồn vào link: https://classroom.github.com/a/RU6qPoEq
 
-## Bài tập tuần02:
+## Bài tập Lab02:
 
 https://classroom.github.com/a/y0dG4baZ
 
